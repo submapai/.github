@@ -1,5 +1,3 @@
-# Submap
-
 ## Open Positions
 
 We're building the infrastructure layer for autonomous AI sandboxes. Every user gets a fully provisioned environment — workers, containers, storage, DNS, access control — spun up in seconds through a real-time orchestration pipeline. If you want to work on hard problems at the intersection of developer tooling and infrastructure automation, read on.
